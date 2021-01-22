@@ -1,4 +1,5 @@
 application-oauth.properties
+*.pem
 
 .gradle
 .idea
